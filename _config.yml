@@ -23,7 +23,7 @@ repository               : "academicpages/kuku119.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "favicon.svg.png"
+  avatar           : "favicon-512x512.png"
   name             : "KUKU TEST"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
