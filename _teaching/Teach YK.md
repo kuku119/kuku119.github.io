@@ -1,9 +1,9 @@
-title: "Teaching experience 2"
+title: "Teaching experience 19"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+permalink: /teaching/2015-spring-teaching-119
+venue: "University 1191, Department19"
+date: 2015-01-0199
 location: "City, Country"
 
 ## Teaching Experience
