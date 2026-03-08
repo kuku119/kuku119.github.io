@@ -23,7 +23,7 @@ repository               : "academicpages/kuku119.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "https://github.com/kuku119/kuku119.github.io/blob/b974c379759448a3361941bbaf7cc7a985b3d414/UMBCretrievers_LOGO.png"
   name             : "KUKU TEST"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
